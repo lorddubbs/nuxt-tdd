@@ -1,4 +1,4 @@
-import { mount } from "vue-test-utils"
+import { mount } from "@vue/test-utils"
 import Tutorial from "@/components/Tutorial.vue"
 
 describe('Tutorial Component', () => {
